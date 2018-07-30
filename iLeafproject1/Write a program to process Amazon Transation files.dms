@@ -1,0 +1,1 @@
+Write a program to process Amazon Transation files, group by column 'payment details' and provide the sum of each payment details
